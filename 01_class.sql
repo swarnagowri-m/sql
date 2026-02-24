@@ -1,0 +1,26 @@
+-- create table employee_details(emp_id VARCHAR(15),
+-- emp_name VARCHAR(40),
+-- contant_no INTEGER ,
+-- emp_salary decimal (10, 2) );
+-- INSERT into employee_details 
+-- (emp_id ,emp_name ,contant_no  ,emp_salary)
+-- VALUES
+-- (101 , 'swarna', 9087654321, 1200);
+-- SELECT * from employee_details;
+-- INSERT into EMPLOYEE_DETAILS
+-- (EMP_ID, EMP_NAME, CONTANT_NO, EMP_SALARY)
+-- VALUES
+-- (102 , 'bhanu', 9887655432,1000000);
+-- INSERT into EMPLOYEE_DETAILS
+-- (EMP_ID, EMP_NAME, CONTANT_NO, EMP_SALARY)
+-- VALUES
+-- (103 , 'hema',8987654321,900000);
+-- SELECT * from employee_details;
+-- FOR SPECIFICE COUNMN
+-- SELECT emp_id , emp_name from EMPLOYEE_DETAILS ;
+-- ==================================
+-- SELECT * FROM EMPLOYEE_DETAILS
+-- LIMIT 2;
+-- SELECT TOP 2 * FROM EMPLOYEE_DETAILS;
+-- ========================================
+SELECT * FROM EMPLOYEE_DETAILS ;
